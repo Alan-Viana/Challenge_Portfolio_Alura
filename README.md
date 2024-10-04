@@ -25,9 +25,11 @@ Você pode visualizar o projeto em: https://Alan-Viana.github.io/Challenge-Portf
 
 ## 🛠 Tecnologias Utilizadas
 HTML
+
 CSS
+
 JavaScript
+
 React
 
-```bash
 
