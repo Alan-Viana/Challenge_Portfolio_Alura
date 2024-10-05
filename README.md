@@ -4,7 +4,7 @@ Este projeto é uma aplicação desenvolvida como parte do curso da Alura em par
 
 ## 🌐 Acesse o Projeto
 
-Você pode visualizar o projeto em: https://Alan-Viana.github.io/Challenge-Portfolio-Alura
+Você pode visualizar o projeto em: https://alan-viana.github.io/Challenge_Portfolio_Alura/
 
 ## 🛠 Funcionalidades
 
